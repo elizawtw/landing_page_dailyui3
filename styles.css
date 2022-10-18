@@ -57,6 +57,9 @@ img {
   max-width: 60%;
   
 }
+.email-text {
+  word-wrap: break-word;
+}
 
 /* footer */
 .bottom-container {
